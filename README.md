@@ -2,6 +2,8 @@
 
 > Vue.js 打造高级实战——音乐 App
 
+## [apk下载](https://github.com/JieDreambuilder/vue-music/blob/master/static/vmusic.apk)
+
 ## 项目树
 ```
 .
