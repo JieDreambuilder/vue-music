@@ -2,7 +2,7 @@
 
 > Vue2.0——音乐 App
 
-## [apk下载](https://github.com/JieDreambuilder/vue-music/blob/master/static/vmusic.apk)
+## [apk下载](https://github.com/JieDreambuilder/vue-music/raw/master/static/vmusic.apk)
 
 ## 项目树
 ```
